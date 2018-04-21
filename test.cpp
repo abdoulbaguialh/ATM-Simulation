@@ -9,3 +9,8 @@ test::test(const test& other)
 {
     //copy ctor
 }
+
+void display()
+{
+    cout<<"Hello";
+}

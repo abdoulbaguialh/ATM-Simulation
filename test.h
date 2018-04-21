@@ -35,5 +35,6 @@ class test
         int data; //!< Member variable "data"
         unsigned int fooo; //!< Member variable "fooo"
 };
+void display();
 
 #endif // TEST_H
